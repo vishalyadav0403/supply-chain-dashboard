@@ -36,10 +36,10 @@ Built with Tableau Desktop and published via Tableau Public
 ## 📷 Screenshots
 
 ### 🔹 Inventory & Fulfillment
-![Inventory & Fulfillment](Screenshot (281).png)
+![Inventory & Fulfillment](Screenshot(281).png)
 
 ### 🔹 Supplier & Transportation
-![Supplier & Transportation](Screenshot (282).png)
+![Supplier & Transportation](Screenshot(282).png)
 
 ### 🔹 Cost Analysis
-![Cost Analysis](Screenshot (283).png)
+![Cost Analysis](Screenshot(283).png)
